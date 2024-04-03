@@ -1,0 +1,13 @@
+All Flight details:
+Flight     Passengers Checked In     Total Baggage Volume     Total Baggage Weight     Total Fees Collected      Observations
+
+AF1081              0                         0.0                       0.0                    0.0           
+AM008               0                         0.0                       0.0                    0.0           
+BA1472              0                         0.0                       0.0                    0.0           
+BA472               0                         0.0                       0.0                    0.0           
+BA8719              1                         0.0                       0.0                    0.0           
+EI3259              0                         0.0                       0.0                    0.0           
+LX3050              1                         0.0                       0.0                    0.0           
+LX345               1                         0.0                       0.0                    0.0           
+TK1984              1                         0.0                       0.0                    0.0           
+VS207               0                         0.0                       0.0                    0.0           

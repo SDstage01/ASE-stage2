@@ -1,0 +1,30 @@
+Mar 31, 2024 8:12:14 AM Log log
+INFO: [USER JOIN QUEUE] Nicholas Liu joins the queue.
+Mar 31, 2024 8:12:16 AM Log log
+INFO: [USER JOIN QUEUE] Joyce Greene joins the queue.
+Mar 31, 2024 8:12:16 AM Log log
+INFO: [USER CHECKING IN] Nicholas Liu is checking in.
+Mar 31, 2024 8:12:17 AM Log log
+INFO: [USER JOIN QUEUE] Rheanna Mayo joins the queue.
+Mar 31, 2024 8:12:18 AM Log log
+INFO: [USER BOARDING] Nicholas Liu is boarding.
+Mar 31, 2024 8:12:19 AM Log log
+INFO: [USER JOIN QUEUE] Bertie Khan joins the queue.
+Mar 31, 2024 8:12:20 AM Log log
+INFO: [USER CHECKING IN] Joyce Greene is checking in.
+Mar 31, 2024 8:12:22 AM Log log
+INFO: [USER JOIN QUEUE] Hannah Mcdonald joins the queue.
+Mar 31, 2024 8:12:22 AM Log log
+INFO: [USER BOARDING] Joyce Greene is boarding.
+Mar 31, 2024 8:12:24 AM Log log
+INFO: [USER JOIN QUEUE] Patsy Childs joins the queue.
+Mar 31, 2024 8:12:26 AM Log log
+INFO: [USER CHECKING IN] Rheanna Mayo is checking in.
+Mar 31, 2024 8:12:27 AM Log log
+INFO: [USER JOIN QUEUE] Esmay John joins the queue.
+Mar 31, 2024 8:12:28 AM Log log
+INFO: [USER CHECKING IN] Bertie Khan is checking in.
+Mar 31, 2024 8:12:29 AM Log log
+INFO: [USER BOARDING] Rheanna Mayo is boarding.
+Mar 31, 2024 8:12:30 AM Log log
+INFO: [USER JOIN QUEUE] Sahra Mcculloch joins the queue.

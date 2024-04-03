@@ -1,0 +1,8 @@
+flightCode,distination,Carrier,passCap,"bagWeightCap(kg)
+Assume 20kg @ppl","bagVolCap (sq.m)
+Assume 0.30 @ppl",flight status (F for open for check-in)
+BA8719,London City,British Airways,250,5000,75,FALSE
+BA472,Barcelona,British Airways,700,14000,210,FALSE
+BA1472,Glasgow,British Airways,180,3600,54,FALSE
+BA412,Malaga,British Airways,500,10000,150,FALSE
+BA828,Dublin,British Airways,700,14000,210,FALSE
